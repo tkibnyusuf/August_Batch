@@ -12,7 +12,7 @@ app.use(express.static(path.join(__dirname, "public"))); // serve your HTML
 // Fake user data (replace with DB in real app)
 const USER = {
   email: "test@example.com",
-  password: "password123"
+  password: "password234"
 };
 
 // Routes
